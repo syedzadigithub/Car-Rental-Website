@@ -1,7 +1,7 @@
 'use client'
 import Image from "next/image"
-import SearchBar from "./SearchBar"
-import IconButton from "./IconButton"
+import SearchBar from "../Navbar/Searchbar"
+import IconButton from "../Navbar/Iconbutton"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 
